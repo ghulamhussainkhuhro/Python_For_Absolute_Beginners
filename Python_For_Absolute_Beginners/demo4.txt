@@ -1,0 +1,4 @@
+New data is written in demo4.txt
+Hello World!
+This is appended text in the demo4.txt
+Hello Wolrd

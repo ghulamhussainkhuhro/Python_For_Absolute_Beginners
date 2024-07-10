@@ -1,0 +1,8 @@
+This 
+is 
+my
+demo
+file
+for
+a+
+operationThis is extra text written using a+ mode
